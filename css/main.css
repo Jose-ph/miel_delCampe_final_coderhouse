@@ -142,7 +142,8 @@ footer a i:hover {
 
       width: 450px;
       
-    }}
+    }
+   }
 
 /* Estilos para desktop*/
 @media (max-width: 1200px) {
@@ -155,6 +156,3 @@ footer a i:hover {
     padding-top: 50px; }
   .mapa {
     padding-top: 50px; } }
-
-
-  
