@@ -137,7 +137,12 @@ footer a i:hover {
   .imgVideo {
     position: absolute;
     top: 25%;
-    width: 50%; } }
+    width: 50%; } 
+    #googleMaps{
+
+      width: 450px;
+      
+    }}
 
 /* Estilos para desktop*/
 @media (max-width: 1200px) {
@@ -150,3 +155,6 @@ footer a i:hover {
     padding-top: 50px; }
   .mapa {
     padding-top: 50px; } }
+
+
+  
