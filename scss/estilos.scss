@@ -3,15 +3,23 @@
 /*Agrega letra Roboto google fonts*/
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
 
-
 /*Agrega reset*/
+@import "reset";
 
-* {
-    margin: 0%;
-    padding: 0%;
-    box-sizing: border-box;
-    
-    color: inherit;
-    list-style: none;
-    text-decoration: none;
-  }
+@import "navbar";
+
+@import "slider";
+
+@import "contactos";
+
+@import "footer";
+
+@import "portada";
+
+@import "servicios";
+
+@import "queries";
+
+
+
+

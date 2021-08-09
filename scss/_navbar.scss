@@ -1,0 +1,37 @@
+/*Estilos Menu-Navbar*/
+
+#menu{
+    opacity: 0.75;
+}
+
+#menu:hover{
+
+    opacity: 1;
+    
+
+}
+
+#menu a {
+    font-size: 18px;
+   
+}
+
+#menu a:hover {
+
+    color:#f8e12d;
+    
+}
+
+#menu button{
+
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+
+/*estilo para corregir navbar*/
+
+.ajuste{
+    padding-top: 130px !important;
+}

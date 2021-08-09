@@ -1,0 +1,50 @@
+/*estilos para la seccion contactos */
+
+#local {
+
+    background-color: #f3f3f3;
+    padding-bottom: 300px;
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper {
+    width: 50%;
+    margin-left: 100px;
+    padding-top: 150px;
+
+}
+
+#numeros-local div{
+
+    padding:0 20px 0 0 ;
+    height: 48px;
+
+    border-right: 2px solid #3f3f3f;
+
+    padding-left:20px ;
+
+
+    
+}
+
+#numeros-local p {
+    margin: 0%;
+}
+
+/*Estilo fondo contactos*/
+
+#fondo-contactos{
+
+    position: relative;
+     top:-130px; 
+
+}
+
+#seccion-contactos{
+
+    background-color:#c4ba9e;
+    min-height: 500px;
+    position: relative;
+
+}

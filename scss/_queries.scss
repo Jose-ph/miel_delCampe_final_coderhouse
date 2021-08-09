@@ -1,0 +1,97 @@
+/*Estilos para pantalla 768px  -- MEDIANA*/
+
+@media (max-width:768px){
+
+    #intro  {
+
+        width: 90% !important;
+
+    }
+
+    #nosotros{
+        width: 90% !important;
+    }
+
+  
+
+    #fila-servicios {
+
+        width: 100% !important;
+        text-align: center;
+
+    }
+
+     #fondo-contactos{
+
+        
+        top:-110px;
+    
+    }
+
+    .imgVideo{
+
+        position:absolute;
+        top: 25%;
+        width: 50%;
+    }
+     
+    
+
+
+   
+}
+    
+
+
+
+/* Estilos para pantalla 576px  -- PEQUEÑA*/
+
+@media(max-width: 576px){
+
+    #imagen-servicio{
+        flex-wrap: wrap;
+        justify-content: center !important;
+    }
+
+
+    #nosotros p {
+        display: none;
+    }
+
+    #formateo{
+        width: 100vw !important;
+    }
+
+    .imgVideo{
+
+        position:absolute;
+        top: 25%;
+        width: 50%;
+    }
+
+    
+
+
+}
+
+/* Estilos para desktop*/
+
+@media(max-width:1200px){
+
+    #local  {
+        flex-wrap: wrap;
+        padding-top: 30px;
+    }
+
+    .wrapper {
+        width: 90%;
+        margin: auto;
+        padding-top: 50px;
+    }
+
+    .mapa {
+        padding-top: 50px;
+    }
+
+    
+}
