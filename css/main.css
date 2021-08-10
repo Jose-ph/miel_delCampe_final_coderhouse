@@ -123,7 +123,14 @@ footer a i:hover {
   .imgVideo {
     position: absolute;
     top: 25%;
-    width: 50%; } }
+    width: 50%; }
+    #googleMaps{
+
+      width: 450px;
+      
+    } }
+
+    
 
 /* Estilos para pantalla 576px  -- PEQUEÑA*/
 @media (max-width: 576px) {
@@ -140,7 +147,7 @@ footer a i:hover {
     width: 50%; } 
     #googleMaps{
 
-      width: 450px;
+      width: 350px;
       
     }
    }
