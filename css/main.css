@@ -147,9 +147,16 @@ footer a i:hover {
     width: 50%; } 
     #googleMaps{
 
-      width: 300px;
+      width: 280px;
       
     }
+    #numeros-local div {
+      padding:0;
+      height: 48px;
+      border:none;
+      padding-left: 20px; }
+    
+    
    }
 
 /* Estilos para desktop*/
